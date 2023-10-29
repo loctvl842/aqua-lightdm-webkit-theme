@@ -43,7 +43,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/usr/share/backgrounds/current");
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/usr/share/backgrounds/tvl/universe_planet_planet_disaster.jpg");
   background-size: cover;
   -webkit-filter: blur(0px) brightness(100%);
   filter: blur(0px) brightness(100%);
